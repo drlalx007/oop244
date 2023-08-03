@@ -1,0 +1,5 @@
+Name: Daryl Alex	Email: dalex4@myseneca.ca 	Student ID: 143691202	Section: OPPS244ZBB
+Overall, the workshop was easy other than the last part or the part 2 of the workshop as when I tried testing it in the matrix it showed some output error regarding the size of the write statement which I was able to solve after modifying my code. 
+In this workshop, I have learned the use of constructure and destructor in the part 1 of the workshop while using the Canister. I have learned to define a custom constructor with different arguments also known as parameterized constructor. I have also learned that a destructor when used along side a constructor can be used to prevent memory leaks and I have also learned the use of referencing an object to a safe state. 
+In the part 2 of the workshop, I was able to learn more about constructor and destructor and I was able to learn in depth about constructor and destructor. 
+

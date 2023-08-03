@@ -1,0 +1,14 @@
+In line number 12 of your output:
+The output should be:
+ 1000.0cc (13.0x10.0) Canister of     0.0cc   Orange Juice
+                                             ^
+But your output is: 
+ 1000.0cc (13.0x10.0) Canister of     0.0cc  Orange Juice
+                                             ^
+
+Unmatched character details:
+The character in column 46 is supposed to be:
+  [Space] ASCII code(32)
+but you printed
+  [O] ASCII code(79)
+

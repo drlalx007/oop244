@@ -1,0 +1,4 @@
+Name: Daryl Alex 		Student ID: 143691202	Subject Code: ZBB	
+Submission Date: 30/06/2021
+Upon successful completion of this workshop, I now can create a binary member operator which is an operator which consist of one or more operands. I also learned and was able to implement the type conversion operator, a unary operator and was also able to create a helper binary operator between classes and was also able to create a helper operator between a primitive and a class.
+I was also able to implement more about constructors and I was able to widen my knowledge on the use and implementation of constructures and destructors. I also learned to work with a primitive member function and a class thus enhancing my knowledge on classes and primitive types. I was also able to implement the concept of overloading and hence I was able to expand my knowledge on them. 

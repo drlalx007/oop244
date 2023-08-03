@@ -1,0 +1,8 @@
+//    Name     :Daryl Alex
+//    ID       :143691202
+//    Email    :dalex4@myseneca.ca
+//    Section  :ZBB
+//    Date     :13/06/2021.
+In this workshop, I used the concepts of Class and its attributes. In addition to that the object-oriented principle of encapsulation was also implemented in the workshop and I was able to learn deeper into it. Encapsulation is wrapping up of data into single unit in a class.
+In this workshop, the class contains member variables and member functions. By default, the member variables are private and cannot be modified directly. I therefore used the public declared member functions to modify the private data members of the class. However within the keywords (private and public) we can explicitly decide and make them public if required. But that is never a practical/real world approach in solving the problem. The data members are never made public as anyone who can modify/corrupt them can lead to bigger problems. Also in this workshop, I had  learnt about memory allocation and deallocation and its usages
+In addition to that the empty/safe state is also used here in this workshop. We set the values into a default state under safe/empty state.
