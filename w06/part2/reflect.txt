@@ -1,0 +1,5 @@
+Name: Daryl Alex
+Student ID: 143691202
+Overall, there was a lot that I was able to learn from the workshop as it has helped me to enhance my ability and skill in the C++ programming language. 
+
+ I now fully understand what a copy constructor and how to utilize it in my program. I was able to learn the functionality of copy constructor and the utilization of it in my program. I also understood the concept of copy assignment and the implementation of it in the programs that I make. I am also able to prevent copying and assignment at the same time in the class thus systematically utilizing and saving memory. I was also able to overload the insertion operator so that the class can be printed using the ostream. I am also able to overload extraction operator so that the class can be read using the istream. I am also able to do file input and output streams using the ifstream and ofstream. I am also able to use the C++ string class to extract an unknown number of characters from the input.
